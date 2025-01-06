@@ -95,9 +95,3 @@ For more information about Spring Boot, refer to the following:
 - [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [Building REST Services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
-## Preview
-
-![Preview Image 1](https://github.com/harshalnalkar/E-Commerce-Web/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![Preview Image 2](https://github.com/harshalnalkar/E-Commerce-Web/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![Preview Image 3](https://github.com/harshalnalkar/E-Commerce-Web/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
-
